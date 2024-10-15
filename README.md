@@ -1,4 +1,4 @@
-# Aaramb_COonizant_
+# AARAMBH_FIRST AID ASSISTANT
 
 ## Project OverView
 Aarambh is a mobile app designed to provide real-time guidance during medical emergencies. Using NLP and AI-generated instructions, it offers personalized, step-by-step help for various emergencies, such as strokes and seizures. The app empowers bystanders to act effectively and confidently in critical situations.
