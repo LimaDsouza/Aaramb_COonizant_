@@ -18,21 +18,11 @@ Aarambh features a user-friendly interface and speech recognition to describe em
 - **Multi-Language Support:** Available in several languages to serve a diverse user base.
 - **Regular Updates:** Incorporates the latest medical guidelines and user feedback for ongoing improvements.
 
-  ## Steps to Run the Project
 
-1. **Clone the repository:**
-  ```
-   git clone ((https://github.com/LimaDsouza/Aaramb_COonizant_.git)
-  ```
-
-2. **Navigate to the project directory:**
-
-    ```
-      cd Aarambh_Smart_First_Aid_Assistant
-    ```
 
 ## Results
 Aarambh enhances emergency response by providing real-time, AI-generated guidance and feedback, empowering users to handle medical crises effectively while ensuring accessibility through offline use and multi-language support.
 
  #Video link
  https://drive.google.com/drive/folders/1Rwf9V_EgsC-ROjzK3D4NQPjPyC_7N1BQ
+
