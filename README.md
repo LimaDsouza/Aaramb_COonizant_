@@ -34,8 +34,5 @@ Aarambh features a user-friendly interface and speech recognition to describe em
 ## Results
 Aarambh enhances emergency response by providing real-time, AI-generated guidance and feedback, empowering users to handle medical crises effectively while ensuring accessibility through offline use and multi-language support.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
+ #Video link
+ https://drive.google.com/drive/folders/1Rwf9V_EgsC-ROjzK3D4NQPjPyC_7N1BQ
